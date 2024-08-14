@@ -16,9 +16,12 @@
   </div>
 
 
-<div> <!-- Parte dos links -->
+<div style="display: inline_blocks"> <!-- Parte dos links -->
   <br>
-<a href="https://www.linkedin.com/in/giovanni-brandao" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-brandao)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/giorno_bran/)
 
 
 </div>
