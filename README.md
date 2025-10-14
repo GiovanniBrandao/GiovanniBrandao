@@ -7,10 +7,10 @@
   <div> <!-- Estatísticas do perfil -->
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanniBrandao&rank_icon=github&theme=merko" />
+  <img height=175 width=50 align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanniBrandao&rank_icon=github&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniBrandao&theme=merko&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 width=50 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniBrandao&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a>
     
   </div>
