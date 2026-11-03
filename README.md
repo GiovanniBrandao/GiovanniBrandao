@@ -8,14 +8,7 @@
 
   [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
-  
-    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniBrandao&theme=merko&layout=compact&langs_count=8&card_width=320" />
-</a>
-    
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GiovanniBrandao&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=GiovanniBrandao&langs_count=4&theme=chartreuse-dark)
   </div>
 
 
