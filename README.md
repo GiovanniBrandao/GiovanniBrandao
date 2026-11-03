@@ -5,9 +5,12 @@
 - ⚡ Fun fact: Favorite color is green
 
   <div> <!-- Estatísticas do perfil -->
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
+  
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniBrandao&theme=merko&layout=compact&langs_count=8&card_width=320" />
